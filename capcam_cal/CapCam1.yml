@@ -1,0 +1,878 @@
+--- 
+CapCam1: 
+  row12: 
+    col01: 
+      id: Sustain        # Corresponding Capacitor bank
+      signal_map: IG17-1 # Diode Stack 1 on Ignitron 17
+      connected: "ON"    # Indicator if diode stack is connected 
+      x_loc: 167         # x-axis pixel location of signal in png file
+      y_loc: 27          # y-axis pixel location of signal in png file
+    col02: 
+      id: Sustain
+      signal_map: IG17-2
+      connected: "ON"
+      x_loc: 208
+      y_loc: 32
+    col03: 
+      id: Sustain
+      signal_map: IG17-3
+      connected: "ON"
+      x_loc: 249
+      y_loc: 26
+    col04: 
+      id: Sustain
+      signal_map: IG17-4
+      connected: "ON"
+      x_loc: 278
+      y_loc: 20
+    col05: 
+      id: NA
+      signal_map: IG17-5
+      connected: "OFF"
+      x_loc: 317
+      y_loc: 20
+    col06: 
+      id: NA
+      signal_map: IG17-6
+      connected: "OFF"
+      x_loc: 356
+      y_loc: 20
+    col07: 
+      id: NA
+      signal_map: IG17-7
+      connected: "OFF"
+      x_loc: 396
+      y_loc: 20
+    col08: 
+      id: NA
+      signal_map: IG17-8
+      connected: "OFF"
+      x_loc: 435
+      y_loc: 21
+    col09: 
+      id: NA
+      signal_map: IG19-5 #Diode Stack 5 on Ignitron 19
+      connected: "OFF"
+      x_loc: 473
+      y_loc: 23
+    col10: 
+      id: NA
+      signal_map: IG19-6
+      connected: "OFF"
+      x_loc: 512
+      y_loc: 23
+    col11: 
+      id: NA
+      signal_map: IG19-7
+      connected: "OFF"
+      x_loc: 548
+      y_loc: 28
+    col12: 
+      id: NA
+      signal_map: IG19-8
+      connected: "OFF"
+      x_loc: 584
+      y_loc: 32
+  row11: 
+    col01: 
+      id: Peaking
+      signal_map: L6-6-1 #Diode Stack 6 on Transformer L6-6
+      connected: "ON"
+      x_loc: 165
+      y_loc: 64
+    col02: 
+      id: Peaking
+      signal_map: L6-6-2
+      connected: "ON"
+      x_loc: 200
+      y_loc: 61
+    col03: 
+      id: Peaking
+      signal_map: L6-6-3
+      connected: "ON"
+      x_loc: 238
+      y_loc: 60
+    col04: 
+      id: Peaking
+      signal_map: L6-6-4
+      connected: "ON"
+      x_loc: 277
+      y_loc: 58
+    col05: 
+      id: Peaking
+      signal_map: IG14A-1 #Diode Stack 1 on Ignitron 14A
+      connected: "ON"
+      x_loc: 316
+      y_loc: 56
+    col06: 
+      id: Peaking
+      signal_map: IG14A-2
+      connected: "ON"
+      x_loc: 356
+      y_loc: 56
+    col07: 
+      id: Peaking
+      signal_map: IG14A-3
+      connected: "ON"
+      x_loc: 386
+      y_loc: 56
+    col08: 
+      id: Peaking
+      signal_map: IG14A-4
+      connected: "ON"
+      x_loc: 437
+      y_loc: 56
+    col09: 
+      id: Sustain
+      signal_map: IG19-4
+      connected: "ON"
+      x_loc: 477
+      y_loc: 56
+    col10: 
+      id: Sustain
+      signal_map: IG19-3
+      connected: "ON"
+      x_loc: 507
+      y_loc: 56
+    col11: 
+      id: Sustain
+      signal_map: IG19-2
+      connected: "ON"
+      x_loc: 547
+      y_loc: 56
+    col12: 
+      id: Sustain
+      signal_map: IG19-1
+      connected: "ON"
+      x_loc: 587
+      y_loc: 56
+  row10:
+    col01: 
+      id: Peaking
+      signal_map: L5-6-1
+      connected: 'ON'
+      x_loc: 161
+      y_loc: 99
+    col02: 
+      id: Peaking
+      signal_map: L5-6-2
+      connected: 'ON'
+      x_loc: 197
+      y_loc: 96
+    col03: 
+      id: Peaking
+      signal_map: L5-6-3
+      connected: 'ON'
+      x_loc: 238
+      y_loc: 98
+    col04: 
+      id: Peaking
+      signal_map: L5-6-4
+      connected: 'ON'
+      x_loc: 275
+      y_loc: 94
+    col05: 
+      id: NA
+      signal_map: IG11-1
+      connected: 'OFF'
+      x_loc: 315
+      y_loc: 94
+    col06: 
+      id: NA
+      signal_map: IG11-2
+      connected: 'OFF'
+      x_loc: 355
+      y_loc: 94
+    col07: 
+      id: NA
+      signal_map: IG11-3
+      connected: 'OFF'
+      x_loc: 398
+      y_loc: 94
+    col08: 
+      id: NA
+      signal_map: IG11-4
+      connected: 'OFF'
+      x_loc: 438
+      y_loc: 94      
+    col09: 
+      id: Peaking
+      signal_map: IG14B-1
+      connected: 'ON'
+      x_loc: 476
+      y_loc: 95     
+    col10: 
+      id: Peaking
+      signal_map: IG14B-2
+      connected: 'ON'
+      x_loc: 515
+      y_loc: 97 
+    col11: 
+      id: Peaking
+      signal_map: IG14B-3
+      connected: 'ON'
+      x_loc: 551
+      y_loc: 102    
+    col12: 
+      id: Peaking
+      signal_map: IG14B-4
+      connected: 'ON'
+      x_loc: 590
+      y_loc: 102
+  row09:
+    col01: 
+      id: Peaking
+      signal_map: IG8B-1
+      connected: 'ON'
+      x_loc: 159
+      y_loc: 137
+    col02: 
+      id: Peaking
+      signal_map: IG8B-2
+      connected: "ON"
+      x_loc: 196
+      y_loc: 135    
+    col03: 
+      id: Peaking
+      signal_map: IG8B-3
+      connected: 'ON'
+      x_loc: 235
+      y_loc: 135
+    col04: 
+      id: Peaking
+      signal_map: IG8B-4
+      connected: "ON"
+      x_loc: 274
+      y_loc: 135 
+    col05: 
+      id: Peaking
+      signal_map: IG8-1
+      connected: 'ON'
+      x_loc: 314
+      y_loc: 133
+    col06: 
+      id: Peaking
+      signal_map: IG8-2
+      connected: "ON"
+      x_loc: 355
+      y_loc: 133    
+    col07: 
+      id: Peaking
+      signal_map: IG8-3
+      connected: 'ON'
+      x_loc: 396
+      y_loc: 133
+    col08: 
+      id: Peaking
+      signal_map: IG8-4
+      connected: "ON"
+      x_loc: 437
+      y_loc: 133           
+    col09:
+      id: NA
+      signal_map: IG9-1
+      connected: 'OFF'
+      x_loc: 476
+      y_loc: 133
+    col10:
+      id: NA
+      signal_map: IG9-2
+      connected: "OFF"
+      x_loc: 515
+      y_loc: 133    
+    col11:
+      id: NA
+      signal_map: IG9-3
+      connected: 'OFF'
+      x_loc: 551
+      y_loc: 133
+    col12:
+      id: NA
+      signal_map: IG9-4
+      connected: "OFF"
+      x_loc: 590
+      y_loc: 133 
+  row08:
+    col01:
+      id: Peaking
+      signal_map: L6-4-1
+      connected: 'ON'
+      x_loc: 157
+      y_loc: 175
+    col02:
+      id: Peaking
+      signal_map: L6-4-2
+      connected: "ON"
+      x_loc: 195
+      y_loc: 175    
+    col03:
+      id: Peaking
+      signal_map: L6-4-3
+      connected: 'ON'
+      x_loc: 233
+      y_loc: 175
+    col04:
+      id: Peaking
+      signal_map: L6-4-4
+      connected: "ON"
+      x_loc: 273
+      y_loc: 175 
+    col05:
+      id: Peaking
+      signal_map: L6-5-1
+      connected: 'ON'
+      x_loc: 314
+      y_loc: 175
+    col06:
+      id: Peaking
+      signal_map: L6-5-2
+      connected: "ON"
+      x_loc: 355
+      y_loc: 175    
+    col07:
+      id: Peaking
+      signal_map: L6-5-3
+      connected: 'ON'
+      x_loc: 397
+      y_loc: 175
+    col08:
+      id: Peaking
+      signal_map: L6-5-4
+      connected: "ON"
+      x_loc: 438
+      y_loc: 175           
+    col09:
+      id: NA
+      signal_map: NA
+      connected: 'OFF'
+      x_loc: 0
+      y_loc: 0
+    col10:
+      id: NA
+      signal_map: NA
+      connected: "OFF"
+      x_loc: 0
+      y_loc: 0    
+    col11:
+      id: Peaking
+      signal_map: L4-6-3
+      connected: 'ON'
+      x_loc: 551
+      y_loc: 180
+    col12:
+      id: Peaking
+      signal_map: L4-6-4
+      connected: "ON"
+      x_loc: 595
+      y_loc: 180 
+  row07:
+    col01:
+      id: Peaking
+      signal_map: L6-1-1
+      connected: 'ON'
+      x_loc: 157
+      y_loc: 214
+    col02:
+      id: Peaking
+      signal_map: L6-1-2
+      connected: "ON"
+      x_loc: 193
+      y_loc: 214    
+    col03:
+      id: Peaking
+      signal_map: L6-1-3
+      connected: 'ON'
+      x_loc: 231
+      y_loc: 214
+    col04:
+      id: Peaking
+      signal_map: L6-1-4
+      connected: "ON"
+      x_loc: 272
+      y_loc: 214 
+    col05:
+      id: Peaking
+      signal_map: L6-2-1
+      connected: 'ON'
+      x_loc: 313
+      y_loc: 214
+    col06:
+      id: Peaking
+      signal_map: L6-2-2
+      connected: "ON"
+      x_loc: 354
+      y_loc: 214    
+    col07:
+      id: Peaking
+      signal_map: L6-2-3
+      connected: 'ON'
+      x_loc: 396
+      y_loc: 214
+    col08:
+      id: Peaking
+      signal_map: L6-2-4
+      connected: "ON"
+      x_loc: 437
+      y_loc: 214           
+    col09:
+      id: Peaking
+      signal_map: L6-3-1
+      connected: 'ON'
+      x_loc: 478
+      y_loc: 215
+    col10:
+      id: Peaking
+      signal_map: L6-3-2
+      connected: "ON"
+      x_loc: 519
+      y_loc: 216   
+    col11:
+      id: Peaking
+      signal_map: L6-3-3
+      connected: 'ON'
+      x_loc: 558
+      y_loc: 216
+    col12:
+      id: Peaking
+      signal_map: L6-3-4
+      connected: "ON"
+      x_loc: 594
+      y_loc: 218
+  row06:
+    col01:
+      id: Peaking
+      signal_map: L5-4-1
+      connected: 'ON'
+      x_loc: 154
+      y_loc: 256
+    col02:
+      id: Peaking
+      signal_map: L5-4-2
+      connected: "ON"
+      x_loc: 192
+      y_loc: 256    
+    col03:
+      id: Peaking
+      signal_map: L5-4-3
+      connected: 'ON'
+      x_loc: 231
+      y_loc: 256
+    col04:
+      id: Peaking
+      signal_map: L5-4-4
+      connected: "ON"
+      x_loc: 271
+      y_loc: 256 
+    col05:
+      id: Peaking
+      signal_map: L5-5-1
+      connected: 'ON'
+      x_loc: 312
+      y_loc: 256
+    col06:
+      id: Peaking
+      signal_map: L5-5-2
+      connected: "ON"
+      x_loc: 354
+      y_loc: 256    
+    col07:
+      id: Peaking
+      signal_map: L5-5-3
+      connected: 'ON'
+      x_loc: 396
+      y_loc: 256
+    col08:
+      id: Peaking
+      signal_map: L5-5-4
+      connected: "ON"
+      x_loc: 437
+      y_loc: 256           
+    col09:
+      id: NA
+      signal_map: NA
+      connected: 'OFF'
+      x_loc: 0
+      y_loc: 0
+    col10:
+      id: NA
+      signal_map: NA
+      connected: "OFF"
+      x_loc: 0
+      y_loc: 0    
+    col11:
+      id: Peaking
+      signal_map: L4-6-1
+      connected: 'ON'
+      x_loc: 558
+      y_loc: 258
+    col12:
+      id: Peaking
+      signal_map: L4-6-2
+      connected: "ON"
+      x_loc: 595
+      y_loc: 258
+  row05:
+    col01:
+      id: Peaking
+      signal_map: L5-1-1
+      connected: 'ON'
+      x_loc: 155
+      y_loc: 295
+    col02:
+      id: Peaking
+      signal_map: L5-1-2
+      connected: "ON"
+      x_loc: 192
+      y_loc: 295    
+    col03:
+      id: Peaking
+      signal_map: L5-1-3
+      connected: 'ON'
+      x_loc: 232
+      y_loc: 296
+    col04:
+      id: Peaking
+      signal_map: L5-1-4
+      connected: "ON"
+      x_loc: 271
+      y_loc: 298 
+    col05:
+      id: Peaking
+      signal_map: L5-2-1
+      connected: 'ON'
+      x_loc: 312
+      y_loc: 298
+    col06:
+      id: Peaking
+      signal_map: L5-2-2
+      connected: "ON"
+      x_loc: 354
+      y_loc: 298    
+    col07:
+      id: Peaking
+      signal_map: L5-2-3
+      connected: 'ON'
+      x_loc: 396
+      y_loc: 298
+    col08:
+      id: Peaking
+      signal_map: L5-2-4
+      connected: "ON"
+      x_loc: 437
+      y_loc: 298       
+    col09:
+      id: Peaking
+      signal_map: L5-3-1
+      connected: 'ON'
+      x_loc: 478
+      y_loc: 298
+    col10:
+      id: Peaking
+      signal_map: L5-3-2
+      connected: "ON"
+      x_loc: 519
+      y_loc: 298
+    col11:
+      id: Peaking
+      signal_map: L5-3-3
+      connected: 'ON'
+      x_loc: 558
+      y_loc: 299
+    col12:
+      id: Peaking
+      signal_map: L5-3-4
+      connected: "ON"
+      x_loc: 595
+      y_loc: 298
+  row04:
+    col01:
+      id: Peaking
+      signal_map: L4-4-1
+      connected: 'ON'
+      x_loc: 155
+      y_loc: 335
+    col02:
+      id: Peaking
+      signal_map: L4-4-2
+      connected: "ON"
+      x_loc: 192
+      y_loc: 336 
+    col03:
+      id: Peaking
+      signal_map: L4-4-3
+      connected: 'ON'
+      x_loc: 232
+      y_loc: 338
+    col04:
+      id: Peaking
+      signal_map: L4-4-4
+      connected: "ON"
+      x_loc: 271
+      y_loc: 339
+    col05:
+      id: Peaking
+      signal_map: L4-5-1
+      connected: 'ON'
+      x_loc: 312
+      y_loc: 340
+    col06:
+      id: Peaking
+      signal_map: L4-5-2
+      connected: "ON"
+      x_loc: 354
+      y_loc: 339    
+    col07:
+      id: Peaking
+      signal_map: L4-5-3
+      connected: 'ON'
+      x_loc: 395
+      y_loc: 340
+    col08:
+      id: Peaking
+      signal_map: L4-5-4
+      connected: "ON"
+      x_loc: 436
+      y_loc: 340           
+    col09:
+      id: NA
+      signal_map: NA
+      connected: 'OFF'
+      x_loc: 0
+      y_loc: 0
+    col10:
+      id: NA
+      signal_map: NA
+      connected: "OFF"
+      x_loc: 0
+      y_loc: 0    
+    col11:
+      id: Peaking
+      signal_map: L3-6-3
+      connected: 'ON'
+      x_loc: 556
+      y_loc: 340
+    col12:
+      id: Peaking
+      signal_map: L3-6-4
+      connected: "ON"
+      x_loc: 589
+      y_loc: 338
+  row03:
+    col01:
+      id: Peaking
+      signal_map: L4-1-1
+      connected: 'ON'
+      x_loc: 156
+      y_loc: 374
+    col02:
+      id: Peaking
+      signal_map: L4-1-2
+      connected: "ON"
+      x_loc: 194
+      y_loc: 375    
+    col03:
+      id: Peaking
+      signal_map: L4-1-3
+      connected: 'ON'
+      x_loc: 232
+      y_loc: 377
+    col04:
+      id: Peaking
+      signal_map: L4-1-4
+      connected: "ON"
+      x_loc: 272
+      y_loc: 379 
+    col05:
+      id: Peaking
+      signal_map: L4-2-1
+      connected: 'ON'
+      x_loc: 312
+      y_loc: 380
+    col06:
+      id: Peaking
+      signal_map: L4-2-2
+      connected: "ON"
+      x_loc: 353
+      y_loc: 380    
+    col07:
+      id: Peaking
+      signal_map: L4-2-3
+      connected: 'ON'
+      x_loc: 395
+      y_loc: 381
+    col08:
+      id: Peaking
+      signal_map: L4-2-4
+      connected: "ON"
+      x_loc: 436
+      y_loc: 381       
+    col09:
+      id: Peaking
+      signal_map: L4-3-1
+      connected: 'ON'
+      x_loc: 478
+      y_loc: 380
+    col10:
+      id: Peaking
+      signal_map: L4-3-2
+      connected: "ON"
+      x_loc: 517
+      y_loc: 380
+    col11:
+      id: Peaking
+      signal_map: L4-3-3
+      connected: 'ON'
+      x_loc: 555
+      y_loc: 379
+    col12:
+      id: Peaking
+      signal_map: L4-3-4
+      connected: "ON"
+      x_loc: 592
+      y_loc: 377
+  row02:
+    col01:
+      id: Peaking
+      signal_map: L3-4-1
+      connected: 'ON'
+      x_loc: 157
+      y_loc: 411
+    col02:
+      id: Peaking
+      signal_map: L3-4-2
+      connected: "ON"
+      x_loc: 194
+      y_loc: 413 
+    col03:
+      id: Peaking
+      signal_map: L3-4-3
+      connected: 'ON'
+      x_loc: 232
+      y_loc: 416
+    col04:
+      id: Peaking
+      signal_map: L3-4-4
+      connected: "ON"
+      x_loc: 271
+      y_loc: 418
+    col05:
+      id: Peaking
+      signal_map: L3-5-1
+      connected: 'ON'
+      x_loc: 312
+      y_loc: 420
+    col06:
+      id: Peaking
+      signal_map: L3-5-2
+      connected: "ON"
+      x_loc: 353
+      y_loc: 420   
+    col07:
+      id: Peaking
+      signal_map: L3-5-3
+      connected: 'ON'
+      x_loc: 394
+      y_loc: 421
+    col08:
+      id: Peaking
+      signal_map: L3-5-4
+      connected: "ON"
+      x_loc: 434
+      y_loc: 421           
+    col09:
+      id: NA
+      signal_map: NA
+      connected: 'OFF'
+      x_loc: 0
+      y_loc: 0
+    col10:
+      id: NA
+      signal_map: NA
+      connected: "OFF"
+      x_loc: 0
+      y_loc: 0    
+    col11:
+      id: Peaking
+      signal_map: L3-6-1
+      connected: 'ON'
+      x_loc: 552
+      y_loc: 419
+    col12:
+      id: Peaking
+      signal_map: L3-6-2
+      connected: "ON"
+      x_loc: 590
+      y_loc: 417
+  row01:
+    col01:
+      id: Peaking
+      signal_map: L3-1-1
+      connected: 'ON'
+      x_loc: 158
+      y_loc: 450
+    col02:
+      id: Peaking
+      signal_map: L3-1-2
+      connected: "ON"
+      x_loc: 195
+      y_loc: 452    
+    col03:
+      id: Peaking
+      signal_map: L3-1-3
+      connected: 'ON'
+      x_loc: 234
+      y_loc: 454
+    col04:
+      id: Peaking
+      signal_map: L3-1-4
+      connected: "ON"
+      x_loc: 272
+      y_loc: 456
+    col05:
+      id: Peaking
+      signal_map: L3-2-1
+      connected: 'ON'
+      x_loc: 312
+      y_loc: 458
+    col06:
+      id: Peaking
+      signal_map: L3-2-2
+      connected: "ON"
+      x_loc: 352
+      y_loc: 460    
+    col07:
+      id: Peaking
+      signal_map: L3-2-3
+      connected: 'ON'
+      x_loc: 393
+      y_loc: 460
+    col08:
+      id: Peaking
+      signal_map: L3-2-4
+      connected: "ON"
+      x_loc: 433
+      y_loc: 459       
+    col09:
+      id: Peaking
+      signal_map: L3-3-1
+      connected: 'ON'
+      x_loc: 473
+      y_loc: 459
+    col10:
+      id: Peaking
+      signal_map: L3-3-2
+      connected: "ON"
+      x_loc: 512
+      y_loc: 458
+    col11:
+      id: Peaking
+      signal_map: L3-3-3
+      connected: 'ON'
+      x_loc: 550
+      y_loc: 456
+    col12:
+      id: Peaking
+      signal_map: L3-3-4
+      connected: "ON"
+      x_loc: 587
+      y_loc: 454

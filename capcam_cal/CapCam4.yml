@@ -1,0 +1,878 @@
+--- 
+CapCam4: #toQA
+  row12: 
+    col01: 
+      id: Formation
+      signal_map: UFC-1
+      connected: 'ON'
+      x_loc: 153
+      y_loc: 42
+    col02: 
+      id: Formation
+      signal_map: UFC-2
+      connected: 'ON'
+      x_loc: 193
+      y_loc: 42
+    col03: 
+      id: Formation
+      signal_map: UFC-3
+      connected: 'ON'
+      x_loc: 222
+      y_loc: 43
+    col04: 
+      id: Formation
+      signal_map: UFC-4
+      connected: 'ON'
+      x_loc: 260
+      y_loc: 40
+    col05:
+      id: Formation
+      signal_map: UFC-5
+      connected: 'ON'
+      x_loc: 297
+      y_loc: 40
+    col06:
+      id: Formation
+      signal_map: UFC-6
+      connected: 'ON'
+      x_loc: 333
+      y_loc: 40
+    col07: 
+      id: Formation
+      signal_map: UFC-7
+      connected: 'ON'
+      x_loc: 370
+      y_loc: 40
+    col08: 
+      id: Formation
+      signal_map: UFC-8
+      connected: 'ON'
+      x_loc: 406
+      y_loc: 41
+    col09: 
+      id: Formation
+      signal_map: UFC-9
+      connected: 'ON'
+      x_loc: 443
+      y_loc: 41
+    col10: 
+      id: Formation
+      signal_map: UFC-10
+      connected: 'ON'
+      x_loc: 486
+      y_loc: 33
+    col11: 
+      id: Formation
+      signal_map: UFC-11
+      connected: 'ON'
+      x_loc: 513
+      y_loc: 45
+    col12: 
+      id: Formation
+      signal_map: UFC-12
+      connected: 'ON'
+      x_loc: 549
+      y_loc: 45
+  row11: 
+    col01: 
+      id: Formation
+      signal_map: LFC-1
+      connected: "ON"
+      x_loc: 153
+      y_loc: 79
+    col02: 
+      id: Formation
+      signal_map: LFC-2
+      connected: "ON"
+      x_loc: 191
+      y_loc: 81
+    col03: 
+      id: Formation
+      signal_map: LFC-3
+      connected: "ON"
+      x_loc: 222
+      y_loc: 76
+    col04: 
+      id: Formation
+      signal_map: LFC-4
+      connected: "ON"
+      x_loc: 259
+      y_loc: 76
+    col05: 
+      id: Formation
+      signal_map: LFC-5
+      connected: "ON"
+      x_loc: 296
+      y_loc: 79
+    col06: 
+      id: Formation
+      signal_map: LFC-6
+      connected: "ON"
+      x_loc: 333
+      y_loc: 75
+    col07: 
+      id: Formation
+      signal_map: LFC-7
+      connected: "ON"
+      x_loc: 370
+      y_loc: 76
+    col08: 
+      id: Formation
+      signal_map: LFC-8
+      connected: "ON"
+      x_loc: 406
+      y_loc: 77
+    col09: 
+      id: Formation
+      signal_map: LFC-9
+      connected: "ON"
+      x_loc: 444
+      y_loc: 77
+    col10: 
+      id: Formation
+      signal_map: LFC-10
+      connected: "ON"
+      x_loc: 479
+      y_loc: 78
+    col11: 
+      id: Formation
+      signal_map: LFC-11
+      connected: "ON"
+      x_loc: 515
+      y_loc: 79
+    col12: 
+      id: Formation
+      signal_map: LFC-12
+      connected: "ON"
+      x_loc: 550
+      y_loc: 81
+  row10:
+    col01:
+      id: Formation
+      signal_map: UFM-1
+      connected: 'ON'
+      x_loc: 149
+      y_loc: 114
+    col02:
+      id: Formation
+      signal_map: UFM-2
+      connected: 'ON'
+      x_loc: 185
+      y_loc: 113
+    col03:
+      id: Formation
+      signal_map: UFM-3
+      connected: 'ON'
+      x_loc: 221
+      y_loc: 113
+    col04:
+      id: Formation
+      signal_map: UFM-4
+      connected: 'ON'
+      x_loc: 258
+      y_loc: 113
+    col05:
+      id: Formation
+      signal_map: UFM-5
+      connected: 'ON'
+      x_loc: 295
+      y_loc: 112
+    col06:
+      id: Formation
+      signal_map: UFM-6
+      connected: 'ON'
+      x_loc: 333
+      y_loc: 112
+    col07:
+      id: Formation
+      signal_map: UFM-7
+      connected: 'ON'
+      x_loc: 370
+      y_loc: 111
+    col08:
+      id: Formation
+      signal_map: UFM-8
+      connected: 'ON'
+      x_loc: 407
+      y_loc: 113      
+    col09:
+      id: Formation
+      signal_map: UFM-9
+      connected: 'ON'
+      x_loc: 443
+      y_loc: 114    
+    col10:
+      id: Formation
+      signal_map: UFM-10
+      connected: 'ON'
+      x_loc: 480
+      y_loc: 114 
+    col11:
+      id: Formation
+      signal_map: UFM-11
+      connected: 'ON'
+      x_loc: 516
+      y_loc: 114    
+    col12:
+      id: Formation
+      signal_map: UFM-12
+      connected: 'ON'
+      x_loc: 551
+      y_loc: 117
+  row09:
+    col01:
+      id: Formation
+      signal_map: LFM-1
+      connected: 'ON'
+      x_loc: 146
+      y_loc: 148
+    col02:
+      id: Formation
+      signal_map: LFM-2
+      connected: "ON"
+      x_loc: 184
+      y_loc: 150    
+    col03:
+      id: Formation
+      signal_map: LFM-3
+      connected: 'ON'
+      x_loc: 221
+      y_loc: 150
+    col04:
+      id: Formation
+      signal_map: LFM-4
+      connected: "ON"
+      x_loc: 257
+      y_loc: 150 
+    col05:
+      id: Formation
+      signal_map: LFM-5
+      connected: 'ON'
+      x_loc: 294
+      y_loc: 150
+    col06:
+      id: Formation
+      signal_map: LFM-6
+      connected: "ON"
+      x_loc: 332
+      y_loc: 150    
+    col07:
+      id: Formation
+      signal_map: LFM-7
+      connected: 'ON'
+      x_loc: 370
+      y_loc: 150
+    col08:
+      id: Formation
+      signal_map: LFM-8
+      connected: "ON"
+      x_loc: 407
+      y_loc: 150          
+    col09:
+      id: Formation
+      signal_map: LFM-9
+      connected: 'ON'
+      x_loc: 444
+      y_loc: 150
+    col10:
+      id: Formation
+      signal_map: LFM-10
+      connected: 'ON'
+      x_loc: 480
+      y_loc: 151    
+    col11:
+      id: Formation
+      signal_map: LFM-11
+      connected: 'ON'
+      x_loc: 517
+      y_loc: 151
+    col12:
+      id: Formation
+      signal_map: LFM-12
+      connected: 'ON'
+      x_loc: 552
+      y_loc: 153 
+  row08:
+    col01:
+      id: Formation
+      signal_map: LFA-1
+      connected: 'ON'
+      x_loc: 154
+      y_loc: 188
+    col02:
+      id: Formation
+      signal_map: LFA-2
+      connected: "ON"
+      x_loc: 184
+      y_loc: 186    
+    col03:
+      id: Formation
+      signal_map: LFA-3
+      connected: 'ON'
+      x_loc: 220
+      y_loc: 186
+    col04:
+      id: Formation
+      signal_map: LFA-4
+      connected: "ON"
+      x_loc: 258
+      y_loc: 186 
+    col05:
+      id: Formation
+      signal_map: LFA-5
+      connected: 'ON'
+      x_loc: 294
+      y_loc: 186
+    col06:
+      id: Formation
+      signal_map: LFA-6
+      connected: "ON"
+      x_loc: 332
+      y_loc: 189    
+    col07:
+      id: Formation
+      signal_map: LFA-7
+      connected: 'ON'
+      x_loc: 367
+      y_loc: 191
+    col08:
+      id: Formation
+      signal_map: LFA-8
+      connected: "ON"
+      x_loc: 405
+      y_loc: 189           
+    col09:
+      id: Formation
+      signal_map: LFA-9
+      connected: 'ON'
+      x_loc: 439
+      y_loc: 191
+    col10:
+      id: Formation
+      signal_map: LFA-10
+      connected: 'ON'
+      x_loc: 474
+      y_loc: 191  
+    col11:
+      id: Formation
+      signal_map: LFA-11
+      connected: 'ON'
+      x_loc: 516
+      y_loc: 189
+    col12:
+      id: Formation
+      signal_map: LFA-12
+      connected: "ON"
+      x_loc: 551
+      y_loc: 189 
+  row07:
+    col01:
+      id: Formation
+      signal_map: UFA-1
+      connected: 'ON'
+      x_loc: 151
+      y_loc: 222
+    col02:
+      id: Formation
+      signal_map: UFA-2
+      connected: "ON"
+      x_loc: 183
+      y_loc: 222    
+    col03:
+      id: Formation
+      signal_map: UFA-3
+      connected: 'ON'
+      x_loc: 220
+      y_loc: 222
+    col04:
+      id: Formation
+      signal_map: UFA-4
+      connected: "ON"
+      x_loc: 257
+      y_loc: 223 
+    col05:
+      id: Formation
+      signal_map: UFA-5
+      connected: 'ON'
+      x_loc: 296
+      y_loc: 224
+    col06:
+      id: Formation
+      signal_map: UFA-6
+      connected: "ON"
+      x_loc: 332
+      y_loc: 224    
+    col07:
+      id: Formation
+      signal_map: UFA-7
+      connected: 'ON'
+      x_loc: 368
+      y_loc: 226
+    col08:
+      id: Formation
+      signal_map: UFA-8
+      connected: "ON"
+      x_loc: 405
+      y_loc: 225           
+    col09:
+      id: Formation
+      signal_map: UFA-9
+      connected: 'ON'
+      x_loc: 444
+      y_loc: 225
+    col10:
+      id: Formation
+      signal_map: UFA-10
+      connected: "ON"
+      x_loc: 480
+      y_loc: 225   
+    col11:
+      id: Formation
+      signal_map: UFA-11
+      connected: 'ON'
+      x_loc: 516
+      y_loc: 225
+    col12:
+      id: Formation
+      signal_map: UFA-12
+      connected: "ON"
+      x_loc: 551
+      y_loc: 225
+  row06:
+    col01:
+      id: Formation
+      signal_map: LFB-1
+      connected: 'ON'
+      x_loc: 151
+      y_loc: 259
+    col02:
+      id: Formation
+      signal_map: LFB-2
+      connected: "ON"
+      x_loc: 184
+      y_loc: 259    
+    col03:
+      id: Formation
+      signal_map: LFB-3
+      connected: 'ON'
+      x_loc: 224
+      y_loc: 259
+    col04:
+      id: Formation
+      signal_map: LFB-4
+      connected: "ON"
+      x_loc: 262
+      y_loc: 259 
+    col05:
+      id: Formation
+      signal_map: LFB-5
+      connected: 'ON'
+      x_loc: 295
+      y_loc: 259
+    col06:
+      id: Formation
+      signal_map: LFB-6
+      connected: "ON"
+      x_loc: 331
+      y_loc: 260    
+    col07:
+      id: Formation
+      signal_map: LFB-7
+      connected: 'ON'
+      x_loc: 367
+      y_loc: 260
+    col08:
+      id: Formation
+      signal_map: LFB-8
+      connected: "ON"
+      x_loc: 403
+      y_loc: 260           
+    col09:
+      id: Formation
+      signal_map: LFB-9
+      connected: 'ON'
+      x_loc: 442
+      y_loc: 260
+    col10:
+      id: Formation
+      signal_map: LFB-10
+      connected: 'ON'
+      x_loc: 482
+      y_loc: 260  
+    col11:
+      id: Formation
+      signal_map: LFB-11
+      connected: 'ON'
+      x_loc: 515
+      y_loc: 260
+    col12:
+      id: Formation
+      signal_map: LFB-12
+      connected: "ON"
+      x_loc: 547
+      y_loc: 260
+  row05:
+    col01:
+      id: Formation
+      signal_map: UFB-1
+      connected: 'ON'
+      x_loc: 150
+      y_loc: 297
+    col02:
+      id: Formation
+      signal_map: UFB-2
+      connected: "ON"
+      x_loc: 183
+      y_loc: 297    
+    col03:
+      id: Formation
+      signal_map: UFB-3
+      connected: 'ON'
+      x_loc: 219
+      y_loc: 297
+    col04:
+      id: Formation
+      signal_map: UFB-4
+      connected: "ON"
+      x_loc: 260
+      y_loc: 297 
+    col05:
+      id: Formation
+      signal_map: UFB-5
+      connected: 'ON'
+      x_loc: 297
+      y_loc: 297
+    col06:
+      id: Formation
+      signal_map: UFB-6
+      connected: "ON"
+      x_loc: 332
+      y_loc: 294    
+    col07:
+      id: Formation
+      signal_map: UFB-7
+      connected: 'ON'
+      x_loc: 367
+      y_loc: 294
+    col08:
+      id: Formation
+      signal_map: UFB-8
+      connected: "ON"
+      x_loc: 406
+      y_loc: 299       
+    col09:
+      id: Formation
+      signal_map: UFB-9
+      connected: 'ON'
+      x_loc: 443
+      y_loc: 299
+    col10:
+      id: Formation
+      signal_map: UFB-10
+      connected: "ON"
+      x_loc: 480
+      y_loc: 299
+    col11:
+      id: Formation
+      signal_map: UFB-11
+      connected: 'ON'
+      x_loc: 516
+      y_loc: 299
+    col12:
+      id: Formation
+      signal_map: UFB-12
+      connected: "ON"
+      x_loc: 551
+      y_loc: 299
+  row04:
+    col01:
+      id: Formation
+      signal_map: LFD-1
+      connected: 'ON'
+      x_loc: 147
+      y_loc: 33
+    col02:
+      id: Formation
+      signal_map: LFD-2
+      connected: "ON"
+      x_loc: 182
+      y_loc: 334 
+    col03:
+      id: Formation
+      signal_map: LFD-3
+      connected: 'ON'
+      x_loc: 219
+      y_loc: 334
+    col04:
+      id: Formation
+      signal_map: LFD-4
+      connected: "ON"
+      x_loc: 256
+      y_loc: 335
+    col05:
+      id: Formation
+      signal_map: LFD-5
+      connected: 'ON'
+      x_loc: 293
+      y_loc: 335
+    col06:
+      id: Formation
+      signal_map: LFD-6
+      connected: "ON"
+      x_loc: 331
+      y_loc: 336   
+    col07:
+      id: Formation
+      signal_map: LFD-7
+      connected: 'ON'
+      x_loc: 369
+      y_loc: 336
+    col08:
+      id: Formation
+      signal_map: LFD-8
+      connected: "ON"
+      x_loc: 406
+      y_loc: 336           
+    col09:
+      id: Formation
+      signal_map: LFD-9
+      connected: 'ON'
+      x_loc: 443
+      y_loc: 336
+    col10:
+      id: Formation
+      signal_map: LFD-10
+      connected: 'ON'
+      x_loc: 480
+      y_loc: 336  
+    col11:
+      id: Formation
+      signal_map: LFD-11
+      connected: 'ON'
+      x_loc: 517
+      y_loc: 336
+    col12:
+      id: Formation
+      signal_map: LFD-12
+      connected: "ON"
+      x_loc: 551
+      y_loc: 336
+  row03:
+    col01:
+      id: Formation
+      signal_map: UFD-1
+      connected: 'ON'
+      x_loc: 148
+      y_loc: 369
+    col02:
+      id: Formation
+      signal_map: UFD-2
+      connected: "ON"
+      x_loc: 183
+      y_loc: 371    
+    col03:
+      id: Formation
+      signal_map: UFD-3
+      connected: 'ON'
+      x_loc: 218
+      y_loc: 371
+    col04:
+      id: Formation
+      signal_map: UFD-4
+      connected: "ON"
+      x_loc: 256
+      y_loc: 371 
+    col05:
+      id: Formation
+      signal_map: UFD-5
+      connected: 'ON'
+      x_loc: 294
+      y_loc: 373
+    col06:
+      id: Formation
+      signal_map: UFD-6
+      connected: "ON"
+      x_loc: 330
+      y_loc: 373    
+    col07:
+      id: Formation
+      signal_map: UFD-7
+      connected: 'ON'
+      x_loc: 368
+      y_loc: 373
+    col08:
+      id: Formation
+      signal_map: UFD-8
+      connected: "ON"
+      x_loc: 406
+      y_loc: 373       
+    col09:
+      id: Formation
+      signal_map: UFD-9
+      connected: 'ON'
+      x_loc: 442
+      y_loc: 373
+    col10:
+      id: Formation
+      signal_map: UFD-10
+      connected: "ON"
+      x_loc: 479
+      y_loc: 373
+    col11:
+      id: Formation
+      signal_map: UFD-11
+      connected: 'ON'
+      x_loc: 515
+      y_loc: 373
+    col12:
+      id: Formation
+      signal_map: UFD-12
+      connected: "ON"
+      x_loc: 550
+      y_loc: 373
+  row02:
+    col01:
+      id: Formation
+      signal_map: LFE-1
+      connected: 'ON'
+      x_loc: 147
+      y_loc: 405
+    col02:
+      id: Formation
+      signal_map: LFQE2
+      connected: "ON"
+      x_loc: 183
+      y_loc: 407
+    col03:
+      id: Formation
+      signal_map: LFQE3
+      connected: 'ON'
+      x_loc: 220
+      y_loc: 407
+    col04:
+      id: Formation
+      signal_map: LFQE4
+      connected: "ON"
+      x_loc: 255
+      y_loc: 407
+    col05:
+      id: Formation
+      signal_map: LFQE5
+      connected: 'ON'
+      x_loc: 293
+      y_loc: 407
+    col06:
+      id: Formation
+      signal_map: LFQE6
+      connected: "ON"
+      x_loc: 330
+      y_loc: 409   
+    col07:
+      id: Formation
+      signal_map: LFQE7
+      connected: 'ON'
+      x_loc: 367
+      y_loc: 409
+    col08:
+      id: Formation
+      signal_map: LFQE8
+      connected: "ON"
+      x_loc: 405
+      y_loc: 409           
+    col09:
+      id: Formation
+      signal_map: LFQE9
+      connected: 'ON'
+      x_loc: 441
+      y_loc: 409
+    col10:
+      id: Formation
+      signal_map: LFQE10
+      connected: 'ON'
+      x_loc: 477
+      y_loc: 409  
+    col11:
+      id: Formation
+      signal_map: LFQE11
+      connected: 'ON'
+      x_loc: 514
+      y_loc: 409
+    col12:
+      id: Formation
+      signal_map: LFQE12
+      connected: "ON"
+      x_loc: 549
+      y_loc: 409
+  row01:
+    col01:
+      id: Formation
+      signal_map: UFE-1
+      connected: 'ON'
+      x_loc: 148
+      y_loc: 441
+    col02:
+      id: Formation
+      signal_map: UFE-2
+      connected: "ON"
+      x_loc: 184
+      y_loc: 442    
+    col03:
+      id: Formation
+      signal_map: UFE-3
+      connected: 'ON'
+      x_loc: 220
+      y_loc: 444
+    col04:
+      id: Formation
+      signal_map: UFE-4
+      connected: "ON"
+      x_loc: 256
+      y_loc: 444
+    col05:
+      id: Formation
+      signal_map: UFE-5
+      connected: 'ON'
+      x_loc: 293
+      y_loc: 445
+    col06:
+      id: Formation
+      signal_map: UFE-6
+      connected: "ON"
+      x_loc: 330
+      y_loc: 445    
+    col07:
+      id: Formation
+      signal_map: UFE-7
+      connected: 'ON'
+      x_loc: 367
+      y_loc: 445
+    col08:
+      id: Formation
+      signal_map: UFE-8
+      connected: "ON"
+      x_loc: 404
+      y_loc: 445       
+    col09:
+      id: Formation
+      signal_map: UFE-9
+      connected: 'ON'
+      x_loc: 440
+      y_loc: 445
+    col10:
+      id: Formation
+      signal_map: UFE-10
+      connected: 'ON'
+      x_loc: 477
+      y_loc: 445
+    col11:
+      id: Formation
+      signal_map: UFE-11
+      connected: 'ON'
+      x_loc: 513
+      y_loc: 445
+    col12:
+      id: Formation
+      signal_map: UFE-12
+      connected: "ON"
+      x_loc: 549
+      y_loc: 445
