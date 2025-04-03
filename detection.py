@@ -7,7 +7,7 @@ import numpy as np
 
 from typing import *
 
-from image_detection_tool.image_process_helper.helper_functions import *
+from image_process_helper.helper_functions import *
 
 
 def classify_diode(image_path: str, calibration_file: str) -> Dict[str, Optional[bool]]:
