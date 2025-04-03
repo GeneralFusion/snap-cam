@@ -1,0 +1,20 @@
+/venv
+/pi3b_test_image
+/output_image
+/test_image
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+*.ini
+*.cfg
+*.log
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vim/Emacs
+*~
+.*.swp
